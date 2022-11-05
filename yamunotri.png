@@ -1,0 +1,2544 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   * html--taxonomy--term--92.html.twig
+   * html--taxonomy--term--%.html.twig
+   * html--taxonomy--term.html.twig
+   * html--taxonomy.html.twig
+   x html.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/html/html.html.twig' -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="http://uttarakhandtourism.gov.in/destination/yamunotri" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Yamunotri is a part of Char Dham (along with Gangotri, Kedarnath and Badrinath), the four most revered Hindu pilgrimages in the Himalayas." />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/utdb_favicon.png" type="image/png" />
+<link rel="alternate" hreflang="en" href="http://uttarakhandtourism.gov.in/destination/yamunotri" />
+<link rel="delete-form" href="/taxonomy/term/92/delete" />
+<link rel="edit-form" href="/taxonomy/term/92/edit" />
+<link rel="devel-load" href="/devel/taxonomy_term/92" />
+<link rel="devel-render" href="/devel/taxonomy_term/92/render" />
+<link rel="devel-definition" href="/devel/taxonomy_term/92/definition" />
+<link rel="token-devel" href="/taxonomy/term/92/devel/token" />
+<link rel="drupal:content-translation-overview" href="/taxonomy/term/92/translations" />
+<link rel="drupal:content-translation-add" href="/taxonomy/term/92/translations/add" />
+<link rel="drupal:content-translation-edit" href="/taxonomy/term/92/translations/edit" />
+<link rel="drupal:content-translation-delete" href="/taxonomy/term/92/translations/delete" />
+
+    <title>Yamunotri | Char Dham | Uttarakhand Tourism</title>
+    <meta name="google-site-verification" content="fMmjVkk8nG1u_cfr-A-cZMBCNQz6FUNQRA8OEXmL4xA" />
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-RP6VMCV04G"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-RP6VMCV04G');
+        </script>
+
+    <link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?rixhek" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?rixhek" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?rixhek" />
+<link rel="stylesheet" media="all" href="/themes/utdb_frontend/css/fontawesome.min.css?rixhek" />
+<link rel="stylesheet" media="all" href="/themes/utdb_frontend/css/owl.carousel.min.css?rixhek" />
+<link rel="stylesheet" media="all" href="/themes/utdb_frontend/css/bootstrap.min.css?rixhek" />
+<link rel="stylesheet" media="all" href="/themes/utdb_frontend/css/custom.css?rixhek" />
+<link rel="stylesheet" media="all" href="/themes/utdb_frontend/css/animate.css?rixhek" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+ 
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    
+  </head>
+  <body>
+        
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/content/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   * page--taxonomy--term--92.html.twig
+   * page--taxonomy--term--%.html.twig
+   * page--taxonomy--term.html.twig
+   * page--taxonomy.html.twig
+   x page.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/page/page.html.twig' -->
+
+    <header id="header">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--header.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/region/region--header.html.twig' -->
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--utdb-frontend-main-menu.html.twig
+   x block--system-menu-block--main.html.twig
+   * block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/block/block--system-menu-block--main.html.twig' -->
+
+<div id="block-topmenubar">
+    <div class="top-menu d-none d-lg-flex justify-content-end">
+        <span class="icon light-mode cursor-pointer">
+            <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                <rect x="0.5" y="0.5" width="19" height="19" fill="white" stroke="black"></rect>
+                <path d="M12.6016 12.0312H7.83594L6.76562 15H5.21875L9.5625 3.625H10.875L15.2266 15H13.6875L12.6016 12.0312ZM8.28906 10.7969H12.1562L10.2188 5.47656L8.28906 10.7969Z" fill="black"></path>
+            </svg>
+        </span>
+        <span class="icon dark-mode cursor-pointer">
+            <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                <rect x="0.5" y="0.5" width="19" height="19" fill="#000" stroke="black"></rect>
+                <path d="M12.6016 12.0312H7.83594L6.76562 15H5.21875L9.5625 3.625H10.875L15.2266 15H13.6875L12.6016 12.0312ZM8.28906 10.7969H12.1562L10.2188 5.47656L8.28906 10.7969Z" fill="#fff"></path>
+            </svg>
+        </span>
+        <span class="icon a-plus cursor-pointer">
+            <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M7.60156 9.03125H2.83594L1.76562 12H0.21875L4.5625 0.625H5.875L10.2266 12H8.6875L7.60156 9.03125ZM3.28906 7.79688H7.15625L5.21875 2.47656L3.28906 7.79688Z" fill="currentcolor"></path>
+                <path d="M13.2715 3.18652H15.2539V4.04102H13.2715V6.28711H12.3633V4.04102H10.3809V3.18652H12.3633V1.11133H13.2715V3.18652Z" fill="currentcolor"></path>
+            </svg>
+        </span>
+        <span class="icon a-normal cursor-pointer">
+            <svg width="11" height="12" viewBox="0 0 11 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M7.60156 9.03125H2.83594L1.76562 12H0.21875L4.5625 0.625H5.875L10.2266 12H8.6875L7.60156 9.03125ZM3.28906 7.79688H7.15625L5.21875 2.47656L3.28906 7.79688Z" fill="currentcolor"></path>
+            </svg>
+        </span>
+        <span class="icon a-minus cursor-pointer">
+            <svg width="13" height="12" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M7.60156 9.03125H2.83594L1.76562 12H0.21875L4.5625 0.625H5.875L10.2266 12H8.6875L7.60156 9.03125ZM3.28906 7.79688H7.15625L5.21875 2.47656L3.28906 7.79688Z" fill="currentcolor"></path>
+                <path d="M12.5635 4.34863H10.1807V3.61133H12.5635V4.34863Z" fill="currentcolor"></path>
+            </svg>
+        </span>
+    
+        <a href="https://www.facebook.com/UttarakhandTourismOfficialPage/" class="icon text-decoration-none" target="_blank"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://twitter.com/UTDBofficial" class="icon text-decoration-none" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="https://www.kooapp.com/profile/uttarakhand_tourismofficial" class="icon text-decoration-none" target="_blank"><img src='https://uttarakhandtourism.gov.in/sites/default/files/koo.png' width='32px' height='24px'></a>
+        <a href="https://www.youtube.com/channel/UCX7c5KGrPjG8tzna7xhro4g" class="icon text-decoration-none" target="_blank"><i class="fab fa-youtube"></i></a>
+        <a href="https://www.instagram.com/uttarakhand_tourismofficial/" class="icon text-decoration-none" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/company/uttarakhand-tourism-development-board" class="icon text-decoration-none" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://in.pinterest.com/utdbtourism/" class="icon text-decoration-none" target="_blank"><i class="fab fa-pinterest-p"></i></a>
+                        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'links__language_block' -->
+<!-- FILE NAME SUGGESTIONS:
+   x links--language-block.html.twig
+   x links--language-block.html.twig
+   * links.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/navigation/links--language-block.html.twig' -->
+  <span class="language-switcher"><span hreflang="en" data-drupal-link-system-path="taxonomy/term/92" class="en is-active"><a href="/destination/yamunotri" class="language-link is-active" hreflang="en" data-drupal-link-system-path="taxonomy/term/92">English</a></span><span hreflang="hi" data-drupal-link-system-path="taxonomy/term/92" class="hi"><a href="/hi/taxonomy/term/92" class="language-link" hreflang="hi" data-drupal-link-system-path="taxonomy/term/92">Hindi</a></span></span>
+  <script>
+
+  document.querySelectorAll('.language-link').forEach((e)=>{
+    e.innerText = e.innerText.substring(0,2);
+  })
+  </script>
+
+
+
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/navigation/links--language-block.html.twig' -->
+
+
+        <span class="icon cursor-pointer" data-toggle="modal" data-target="#searchModal"><i class="fas fa-search"></i></span>
+    </div>
+</div>
+<nav class="navbar navbar-expand-lg main-menu navbar-light" role="navigation">
+    <a href="/" title="Home" rel="home" class="navbar-brand">
+        <span class="position-relative d-inline-block px9">
+            <img src="/sites/default/files/UTDB%20logo_1.png" alt="Home" class="site_brand_logo"/>
+            <style>
+                                .beta-ribbon{
+                    position: absolute;
+                    top: 100%;
+                    left: 0px;
+                    z-index: 1;
+                    width: 100%;
+                    text-align: center;
+                    background: #d80000;
+                    color: white;
+                    font-size: .75em;
+                    font-family: Assistant;
+                    margin-top: 5px;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                    font-weight: 600;
+                }
+                .px9{
+                padding-right: 9px !important;
+                }
+            </style>
+                   </span>
+    </a>
+        
+
+    <div class="d-flex flex-column align-items-end d-lg-none">
+        <div class="screen-controls d-flex">
+            <span class="icon light-mode cursor-pointer">
+                <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                    <rect x="0.5" y="0.5" width="19" height="19" fill="white" stroke="black"></rect>
+                    <path d="M12.6016 12.0312H7.83594L6.76562 15H5.21875L9.5625 3.625H10.875L15.2266 15H13.6875L12.6016 12.0312ZM8.28906 10.7969H12.1562L10.2188 5.47656L8.28906 10.7969Z" fill="black"></path>
+                </svg>
+            </span>
+            <span class="icon dark-mode cursor-pointer">
+                <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                    <rect x="0.5" y="0.5" width="19" height="19" fill="#000" stroke="black"></rect>
+                    <path d="M12.6016 12.0312H7.83594L6.76562 15H5.21875L9.5625 3.625H10.875L15.2266 15H13.6875L12.6016 12.0312ZM8.28906 10.7969H12.1562L10.2188 5.47656L8.28906 10.7969Z" fill="#fff"></path>
+                </svg>
+            </span>
+            <span class="icon a-plus cursor-pointer">
+                <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7.60156 9.03125H2.83594L1.76562 12H0.21875L4.5625 0.625H5.875L10.2266 12H8.6875L7.60156 9.03125ZM3.28906 7.79688H7.15625L5.21875 2.47656L3.28906 7.79688Z" fill="black"></path>
+                    <path d="M13.2715 3.18652H15.2539V4.04102H13.2715V6.28711H12.3633V4.04102H10.3809V3.18652H12.3633V1.11133H13.2715V3.18652Z" fill="black"></path>
+                </svg>
+            </span>
+            <span class="icon a-normal cursor-pointer">
+                <svg width="11" height="12" viewBox="0 0 11 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7.60156 9.03125H2.83594L1.76562 12H0.21875L4.5625 0.625H5.875L10.2266 12H8.6875L7.60156 9.03125ZM3.28906 7.79688H7.15625L5.21875 2.47656L3.28906 7.79688Z" fill="black"></path>
+                </svg>
+            </span>
+            <span class="icon a-minus cursor-pointer">
+                <svg width="13" height="12" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7.60156 9.03125H2.83594L1.76562 12H0.21875L4.5625 0.625H5.875L10.2266 12H8.6875L7.60156 9.03125ZM3.28906 7.79688H7.15625L5.21875 2.47656L3.28906 7.79688Z" fill="black"></path>
+                    <path d="M12.5635 4.34863H10.1807V3.61133H12.5635V4.34863Z" fill="black"></path>
+                </svg>
+            </span>
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'links__language_block' -->
+<!-- FILE NAME SUGGESTIONS:
+   x links--language-block.html.twig
+   x links--language-block.html.twig
+   * links.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/navigation/links--language-block.html.twig' -->
+  <span class="language-switcher"><span hreflang="en" data-drupal-link-system-path="taxonomy/term/92" class="en is-active"><a href="/destination/yamunotri" class="language-link is-active" hreflang="en" data-drupal-link-system-path="taxonomy/term/92">English</a></span><span hreflang="hi" data-drupal-link-system-path="taxonomy/term/92" class="hi"><a href="/hi/taxonomy/term/92" class="language-link" hreflang="hi" data-drupal-link-system-path="taxonomy/term/92">Hindi</a></span></span>
+  <script>
+
+  document.querySelectorAll('.language-link').forEach((e)=>{
+    e.innerText = e.innerText.substring(0,2);
+  })
+  </script>
+
+
+
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/navigation/links--language-block.html.twig' -->
+
+
+        </div>
+        <a class="navbar-toggler d-inline-block" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="burger">
+                <span class="lines"></span>
+                <span class="lines"></span>
+                <span class="lines"></span>
+            </span>
+        </a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="custom-container ml-auto">
+            <div class="social-and-search d-lg-none d-flex justify-content-center">
+                <a href="https://www.facebook.com/UttarakhandTourismOfficialPage/" class="icon text-decoration-none" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://twitter.com/UTDBofficial" class="icon text-decoration-none" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.kooapp.com/profile/uttarakhand_tourismofficial" class="icon text-decoration-none" target="_blank"><img src='https://uttarakhandtourism.gov.in/sites/default/files/koo.png' width='32px' height='24px'></a>
+                <a href="https://www.youtube.com/channel/UCX7c5KGrPjG8tzna7xhro4g" class="icon text-decoration-none" target="_blank"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.instagram.com/uttarakhand_tourismofficial/" class="icon text-decoration-none" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.linkedin.com/company/uttarakhand-tourism-development-board" class="icon text-decoration-none" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://in.pinterest.com/utdbtourism/" class="icon text-decoration-none" target="_blank"><i class="fab fa-pinterest-p"></i></a>
+                                <span class="icon cursor-pointer" data-toggle="modal" data-target="#searchModal"><i class="fas fa-search"></i></span>
+            </div>
+                            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   x menu--main.html.twig
+   x menu--main.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/menu/menu--main.html.twig' -->
+
+
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+        <a href="/" class="nav-link">
+          Home
+        </a>
+
+              </li>
+          <li class="nav-item dropdown-hover">
+        <a href="/" class="nav-link dropdown-hover-toggler" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Explore
+        </a>
+
+                              <div class="dropdown-menu-hover pt-0" aria-labelledby="navbarDropdown">
+                      <span class="fas fa-caret-up d-none d-lg-block"></span>
+              <div class="third-level">
+                                                            <div class="px-2 py-2">
+                            <a href="/gods-grace" class="font-weight-bold dropdown-item-hover" style="white-space: nowrap">Spiritual</a>
+                                                            <div>
+                                    <a href="/activity/char-dham" class="infant dropdown-item-hover" style="white-space: nowrap">Char Dham</a>
+                                </div>
+                                                            <div>
+                                    <a href="/panch-kedar" class="infant dropdown-item-hover" style="white-space: nowrap">Panch Kedar</a>
+                                </div>
+                                                            <div>
+                                    <a href="/panch-badri" class="infant dropdown-item-hover" style="white-space: nowrap">Panch Badri</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/panch-prayag" class="infant dropdown-item-hover" style="white-space: nowrap">Panch Prayag</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/hemkunt-sahib" class="infant dropdown-item-hover" style="white-space: nowrap">Hemkunt Sahib</a>
+                                </div>
+                                                            <div>
+                                    <a href="https://uttarakhandtourism.gov.in/destination/kartik-swami-temple/" class="infant dropdown-item-hover" style="white-space: nowrap">Kartik Swami Temple</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/haridwar" class="infant dropdown-item-hover" style="white-space: nowrap">Haridwar</a>
+                                </div>
+                                                    </div>
+                                                                                <div class="px-2 py-2">
+                            <a href="/feel-thrill" class="font-weight-bold dropdown-item-hover" style="white-space: nowrap">Adventure</a>
+                                                            <div>
+                                    <a href="/destination/auli" class="infant dropdown-item-hover" style="white-space: nowrap">Auli</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/rishikesh" class="infant dropdown-item-hover" style="white-space: nowrap">Rishikesh</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/new-tehri" class="infant dropdown-item-hover" style="white-space: nowrap">New Tehri</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/nainital" class="infant dropdown-item-hover" style="white-space: nowrap">Nainital</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/sattal" class="infant dropdown-item-hover" style="white-space: nowrap">Sattal</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/chopta" class="infant dropdown-item-hover" style="white-space: nowrap">Chopta</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/mussoorie" class="infant dropdown-item-hover" style="white-space: nowrap">Mussoorie</a>
+                                </div>
+                                                    </div>
+                                                                                <div class="px-2 py-2">
+                            <a href="/natures-bounty" class="font-weight-bold dropdown-item-hover" style="white-space: nowrap">Nature</a>
+                                                            <div>
+                                    <a href="/destination/valley-of-flowers" class="infant dropdown-item-hover" style="white-space: nowrap">Valley of Flowers</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/chaukori" class="infant dropdown-item-hover" style="white-space: nowrap">Chaukori</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/chakrata" class="infant dropdown-item-hover" style="white-space: nowrap">Chakrata</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/kausani" class="infant dropdown-item-hover" style="white-space: nowrap">Kausani</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/nainital" class="infant dropdown-item-hover" style="white-space: nowrap">Nainital</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/mukteshwar" class="infant dropdown-item-hover" style="white-space: nowrap">Mukteshwar</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/ranikhet" class="infant dropdown-item-hover" style="white-space: nowrap">Ranikhet</a>
+                                </div>
+                                                    </div>
+                                                                                <div class="px-2 py-2">
+                            <a href="/wild" class="font-weight-bold dropdown-item-hover" style="white-space: nowrap">Wildlife</a>
+                                                            <div>
+                                    <a href="/destination/corbett-national-park" class="infant dropdown-item-hover" style="white-space: nowrap">Jim Corbett National Park</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/nanda-devi-national-park" class="infant dropdown-item-hover" style="white-space: nowrap">Nanda Devi National Park</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/rajaji-national-park" class="infant dropdown-item-hover" style="white-space: nowrap">Rajaji National Park</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/gangotri-national-park" class="infant dropdown-item-hover" style="white-space: nowrap">Gangotri National Park</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/binsar" class="infant dropdown-item-hover" style="white-space: nowrap">Binsar Wildlife sanctuary</a>
+                                </div>
+                                                            <div>
+                                    <a href="/destination/asan-bird-sanctuary" class="infant dropdown-item-hover" style="white-space: nowrap">Asan barrage</a>
+                                </div>
+                                                    </div>
+                                                  </div>
+          </div>
+              </li>
+          <li class="nav-item dropdown-hover">
+        <a href="" class="nav-link dropdown-hover-toggler" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Experience
+        </a>
+
+                              <div class="dropdown-menu-hover pt-0" aria-labelledby="navbarDropdown">
+                      <span class="fas fa-caret-up d-none d-lg-block"></span>
+              <div class="third-level">
+                                                            <a href="/feel-thrill" class="dropdown-item-hover last-level">Adventure</a>
+                                                                                <a href="/destination" class="dropdown-item-hover last-level">Destinations</a>
+                                                                                <a href="/events" class="dropdown-item-hover last-level">Events</a>
+                                                                                <a href="/voices-and-culture" class="dropdown-item-hover last-level">Festivals &amp; Fairs</a>
+                                                                                <a href="/film-tourism" class="dropdown-item-hover last-level">Film Tourism</a>
+                                                                                <a href="/reconnect" class="dropdown-item-hover last-level">Yoga &amp; Wellness</a>
+                                                  </div>
+          </div>
+              </li>
+          <li class="nav-item dropdown-hover">
+        <a href="" class="nav-link dropdown-hover-toggler" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Plan
+        </a>
+
+                              <div class="dropdown-menu-hover pt-0" aria-labelledby="navbarDropdown">
+                      <span class="fas fa-caret-up d-none d-lg-block"></span>
+              <div class="third-level">
+                                                            <a href="/accommodation" class="dropdown-item-hover last-level">Accommodations</a>
+                                                                                <a href="/tour-packages" class="dropdown-item-hover last-level">Itineraries</a>
+                                                                                <a href="https://uttarakhandtourism.gov.in/feel-thrill/trekking" class="dropdown-item-hover last-level">Treks</a>
+                                                                                <a href="/tourism-circuits" class="dropdown-item-hover last-level">Tourism Circuits</a>
+                                                                                <a href="/document/type/tourist-guide" class="dropdown-item-hover last-level">Tourist Guide</a>
+                                                                                <a href="/travel-agents" class="dropdown-item-hover last-level">Travel Agents</a>
+                                                  </div>
+          </div>
+              </li>
+          <li class="nav-item dropdown-hover">
+        <a href="/" class="nav-link dropdown-hover-toggler" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Trade
+        </a>
+
+                              <div class="dropdown-menu-hover pt-0" aria-labelledby="navbarDropdown">
+                      <span class="fas fa-caret-up d-none d-lg-block"></span>
+              <div class="third-level">
+                                                            <a href="/homestay-listing" class="dropdown-item-hover last-level">Homestay Listing</a>
+                                                                                <a href="/travel-trade-listing" class="dropdown-item-hover last-level">Travel Trade Listing</a>
+                                                                                <a href="https://uttarakhandtourism.gov.in/homestay/registration.php" class="dropdown-item-hover last-level">Homestay Registration</a>
+                                                                                <a href="https://uttarakhandtourism.gov.in/travel/" class="dropdown-item-hover last-level">Travel Trade Registration</a>
+                                                                                <a href="https://investuttarakhand.uk.gov.in/uttarakhandtourism" class="dropdown-item-hover last-level">Invest In Uttarakhand Tourism</a>
+                                                  </div>
+          </div>
+              </li>
+          <li class="nav-item dropdown-hover">
+        <a href="/" class="nav-link dropdown-hover-toggler" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          FAQ
+        </a>
+
+                              <div class="dropdown-menu-hover pt-0" aria-labelledby="navbarDropdown">
+                      <span class="fas fa-caret-up d-none d-lg-block"></span>
+              <div class="third-level">
+                                                            <a href="/adventure-tourism-faq" class="dropdown-item-hover last-level">Adventure Tourism FAQ</a>
+                                                                                <a href="/destination-faq" class="dropdown-item-hover last-level">Destination FAQ</a>
+                                                                                <a href="/home-stay-faq" class="dropdown-item-hover last-level">Home Stay FAQ</a>
+                                                                                <a href="/places-interest-faq" class="dropdown-item-hover last-level">Places of Interest FAQ</a>
+                                                                                <a href="/religious-tourism-faq" class="dropdown-item-hover last-level">Religious Tourism FAQ</a>
+                                                                                <a href="/travel-trade-faq" class="dropdown-item-hover last-level">Travel Trade FAQ</a>
+                                                                                <a href="/trekking-faq" class="dropdown-item-hover last-level">Trekking FAQ</a>
+                                                  </div>
+          </div>
+              </li>
+          <li class="nav-item dropdown-hover">
+        <a href="/" class="nav-link dropdown-hover-toggler" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          MEDIA
+        </a>
+
+                              <div class="dropdown-menu-hover pt-0" aria-labelledby="navbarDropdown">
+                      <span class="fas fa-caret-up d-none d-lg-block"></span>
+              <div class="third-level">
+                                                            <a href="/digital-library/type/ebooks" class="dropdown-item-hover last-level">E-Books</a>
+                                                                                <a href="/blog-listing" class="dropdown-item-hover last-level">Blogs</a>
+                                                                                <a href="/digitalrepository" class="dropdown-item-hover last-level">Digital Repository</a>
+                                                                                <a href="/document/type/press-release" class="dropdown-item-hover last-level">Press Release</a>
+                                                                                <a href="https://uttarakhandtourism.gov.in/sites/default/files/2021-09/uttarakhand-logo-english.png" class="dropdown-item-hover last-level">UTDB Logo-English</a>
+                                                                                <a href="https://uttarakhandtourism.gov.in/sites/default/files/2021-09/uttarakhand-logo-hindi.png" class="dropdown-item-hover last-level">UTDB Logo-Hindi</a>
+                                                                                <a href="/sites/default/files/2021-07/National%20Domestic%20Travel%20Mart.pdf" class="dropdown-item-hover last-level">Tentative Event Calender 2022-23</a>
+                                                                                <a href="/social-media-repository" class="dropdown-item-hover last-level">Social-Media-Repository</a>
+                                                  </div>
+          </div>
+              </li>
+          <li class="nav-item">
+        <a href="/document/type/advisory" class="nav-link">
+          Covid-19 Advisory
+        </a>
+
+              </li>
+        </ul>
+  
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/menu/menu--main.html.twig' -->
+
+
+                    </div>
+    </div>
+</nav>
+<!-- END OUTPUT from 'themes/utdb_frontend/template/block/block--system-menu-block--main.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--utdb-frontend-messages.html.twig
+   x block--system-messages-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/block/block--system-messages-block.html.twig' -->
+<div data-drupal-messages-fallback class="hidden"></div>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/block/block--system-messages-block.html.twig' -->
+
+
+    
+<!-- END OUTPUT from 'themes/utdb_frontend/template/region/region--header.html.twig' -->
+
+
+    </header><!-- /#header -->
+
+
+	
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--content.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/region/region.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--utdb-frontend-content.html.twig
+   * block--system-main-block.html.twig
+   * block--system.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/block/block.html.twig' -->
+<div id="block-utdb-frontend-content">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'taxonomy_term' -->
+<!-- FILE NAME SUGGESTIONS:
+   * taxonomy-term--destinations--full.html.twig
+   * taxonomy-term--92.html.twig
+   x taxonomy-term--destinations.html.twig
+   * taxonomy-term.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/page/taxonomy-term--destinations.html.twig' -->
+
+
+        
+<style>.snowflake {
+  color: #fff;
+  font-size: 1em;
+  font-family: Arial;
+  font-weight:700;
+  text-shadow: 0 0 2px #000;
+}
+
+@-webkit-keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@-webkit-keyframes snowflakes-shake{0%{-webkit-transform:translateX(0px);transform:translateX(0px)}50%{-webkit-transform:translateX(80px);transform:translateX(80px)}100%{-webkit-transform:translateX(0px);transform:translateX(0px)}}@keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@keyframes snowflakes-shake{0%{transform:translateX(0px)}50%{transform:translateX(80px)}100%{transform:translateX(0px)}}.snowflake{position:fixed;top:-10%;z-index:9999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default;-webkit-animation-name:snowflakes-fall,snowflakes-shake;-webkit-animation-duration:10s,3s;-webkit-animation-timing-function:linear,ease-in-out;-webkit-animation-iteration-count:infinite,infinite;-webkit-animation-play-state:running,running;animation-name:snowflakes-fall,snowflakes-shake;animation-duration:10s,3s;animation-timing-function:linear,ease-in-out;animation-iteration-count:infinite,infinite;animation-play-state:running,running}.snowflake:nth-of-type(0){left:1%;-webkit-animation-delay:0s,0s;animation-delay:0s,0s}.snowflake:nth-of-type(1){left:10%;-webkit-animation-delay:1s,1s;animation-delay:1s,1s}.snowflake:nth-of-type(2){left:20%;-webkit-animation-delay:6s,.5s;animation-delay:6s,.5s}.snowflake:nth-of-type(3){left:30%;-webkit-animation-delay:4s,2s;animation-delay:4s,2s}.snowflake:nth-of-type(4){left:40%;-webkit-animation-delay:2s,2s;animation-delay:2s,2s}.snowflake:nth-of-type(5){left:50%;-webkit-animation-delay:8s,3s;animation-delay:8s,3s}.snowflake:nth-of-type(6){left:60%;-webkit-animation-delay:6s,2s;animation-delay:6s,2s}.snowflake:nth-of-type(7){left:70%;-webkit-animation-delay:2.5s,1s;animation-delay:2.5s,1s}.snowflake:nth-of-type(8){left:80%;-webkit-animation-delay:1s,0s;animation-delay:1s,0s}.snowflake:nth-of-type(9){left:90%;-webkit-animation-delay:3s,1.5s;animation-delay:3s,1.5s}
+</style>
+
+ 
+
+<div class="position-relative" >
+      <div class="owl-carousel owl-theme homepage-banner-carousel owl-nav-in-10 owl-nav-hover-white">
+            
+            <div class="banner position-relative">
+            <img src=/sites/default/files/2020-09/Yamunotri_Vishal%20Rathod.jpg />
+            <div class="position-absolute text-white small" style="bottom: 0; right: 0"></div>
+        </div>
+            <div class="banner position-relative">
+            <img src=/sites/default/files/2021-03/Yamunotri_Banner.jpeg />
+            <div class="position-absolute text-white small" style="bottom: 0; right: 0"></div>
+        </div>
+    
+    </div>
+  <div class="overflow-auto">
+    <div class="text-center justify-content-center align-items-center dest-nav position-absolute">
+      <a class="px-4" href="#nav-description">Why visit</a>
+      <a class="px-4" href="#nav-attractions">Attractions</a>
+      <a class="px-4" href="#nav-what-to-do">What to do</a>
+      <a class="px-4" href="#nav-weather">Weather</a>
+      <a class="px-4" href="#nav-how-to-reach">How to reach</a>
+          </div>
+  </div>
+</div>
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-breadcrumb-block.html.twig
+   * block--system.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/block/block.html.twig' -->
+<div>
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'breadcrumb' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/navigation/breadcrumb.html.twig' -->
+  <nav role="navigation" aria-labelledby="system-breadcrumb" class="breadcrumb p-0">
+    <h2 id="system-breadcrumb" class="visually-hidden d-none ">Breadcrumb</h2>
+    <ol class="breadcrumb mb-0 max-w-80 mx-auto w-100 px-3">
+         
+              <li class="breadcrumb-item">
+                  <a href="/">Home</a>
+              </li>
+       
+         
+              <li class="breadcrumb-item">
+                  <a href="/destination">Destination</a>
+              </li>
+       
+         
+              <li class="breadcrumb-item">
+                    
+            <li class="breadcrumb-item-breadcrumbnone">
+                    Yamunotri
+                 </li>
+              </li>
+       
+    
+
+    </ol>
+  </nav>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/navigation/breadcrumb.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/block/block.html.twig' -->
+
+
+
+  <div class="container-fluid max-w-80">  
+    <h3 class="title-boton">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--name--destinations.html.twig
+   * field--taxonomy-term--name.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--name.html.twig
+   * field--string.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            Yamunotri
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+</h3>
+  </div>
+
+
+  <div class="container-fluid max-w-80 mt-3">
+    <div class="experience mb-50">
+      <div class="img-container slide-item mb-3">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-feature-image--destinations.html.twig
+   * field--taxonomy-term--field-feature-image.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-feature-image.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+<img src="/sites/default/files/2020-09/Yamunotri_under%20banner%20image.jpg" alt="Yamunotri_under banner image" typeof="foaf:Image" />
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+
+
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+      </div>
+      <div class="experience-container">
+        <div class="p-3 wow fadeInRightBig">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-what-to-experience--destinations.html.twig
+   * field--taxonomy-term--field-what-to-experience.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-what-to-experience.html.twig
+   * field--text-long.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            <ul><li><span><span><span><span><span><span>One of the Char Dhams (<em>four pilgrimages</em>) in the great Himalayas</span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span>Said to be the source of River Yamunotri</span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span>Stunning landscape with icy peaks, glaciers and hot springs </span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span>Popular among trekkers</span></span></span></span></span></span> </li>
+</ul>
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid max-w-80">
+    
+    <div class="description mt-3" id="nav-description">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--description--destinations.html.twig
+   * field--taxonomy-term--description.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--description.html.twig
+   * field--text-long.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            <p><span><span><span><span><span><span>Yamunotri is a part of <a href="https://uttarakhandtourism.gov.in/activity/char-dham">Char Dham</a> (<em>along with Gangotri, Kedarnath and Badrinath</em>), the four most revered Hindu pilgrimages in the Himalayas. The small mountain hamlet, with the Yamunotri Temple at its centre, attracts thousands of devotees every year and is the commencing point of the Char Dham Yatra pilgrimage (May to October), which proceeds from Yamunotri to Gangotri and finally to Kedarnath and Badrinath. Lodged in a narrow gorge, close to the source of the Yamuna, the Yamunotri Temple is dedicated to Yamuna, the second-most sacred river after the Ganges. A dip in River Yamuna is said to protect one from untimely death.  Devotees either walk or ride a palanquin or a pony to reach the temple (around 3,233 m above sea level) from Janki Chatti, a steep trek of about 3 km that takes about 3 hours.</span></span></span></span></span></span></p>
+
+<p>Kapat is open now for darshan.<span><span><span><span><span><span> </span></span></span></span></span></span></p>
+
+<p><span><span><span><span><span><span><strong>Best Time To Visit:</strong> April to June and September to November</span></span></span></span></span></span></p>
+
+<p> </p>
+
+<p> </p>
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+    </div>
+  </div>
+
+    
+<div class="container-fluid max-w-80  mt-3">
+  <div class="row justify-content-center">
+                    <div class="col-lg-6 px-0 px-lg-3">
+          <div class="p-3 bg-green-graphic wow fadeInLeftBig h-100">
+                        <h5 class="title font-weight-bold mb-4">Itineraries</h5>
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/container.html.twig' -->
+<div class="views-element-container">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view.html.twig' -->
+<div class="js-view-dom-id-7f9c8ebcdc727325b848da0d71cfb886fed5cb458a0663ee3c2b36b88874d21a">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-unformatted.html.twig' -->
+    <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+<h6 class="font-weight-bold">From Yamunotri to Gaumukh </h6>
+                    <p class="mb-1 h6 font-weight-normal line-1">
+                       Destinations: Dehradun, Yamunotri, Gangotri, Gaumukh, Haridwar
+
+Duration: 6 days
+
+Distance: Approx 700 kms
+
+Experience: Sightseeing and religious
+
+For family and groups
+
+Budget: Approx Rs 10,000 (per person)
+
+You can also explore GMVN tour packages View Packages
+                    </p>
+                    <p class="h6 font-weight-normal">
+                        <a href="/yamunotri-gaumukh" class="hover-text-ani text-white">Read More</a>
+                    </p>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-unformatted.html.twig' -->
+
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/form/container.html.twig' -->
+
+
+          </div>
+        </div>
+      
+      
+              <div class="col-lg-6 p-3 wow fadeInRightBig">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/container.html.twig' -->
+<div class="views-element-container">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view.html.twig' -->
+<div class="js-view-dom-id-2a93475cc6f1711783a7a4dba84d3de9628798f240bd67ce52113bd0e0036629">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-unformatted.html.twig' -->
+    <div>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+<div class="row">
+                    <div class="col-sm-7 px-3 order-2 order-sm-1">
+                        <h6 class="red-title font-weight-bold">Faith Sees No Fear At Yamunotri</h6>
+                        <p class="mb-1 line-3 h6 font-weight-normal line-2">
+                            By- Shrabasti Anindita Mallik
+                        </p>
+                        <p class="font-weight-normal">
+                            <a href="/blog/faith-sees-no-fear-yamunotri" class="hover-text-anim">Read More</a>
+                        </p>
+  
+                    </div>
+                    <div class="col-sm-5 order-1 order-sm-2 slide-item">
+                        
+
+
+
+
+  
+
+
+
+
+<img src="/sites/default/files/2021-02/3.jpg" alt="Yaminotri" typeof="Image" />
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+<!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-unformatted.html.twig' -->
+
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/form/container.html.twig' -->
+
+
+        </div>
+      
+  </div>
+</div>
+
+
+
+
+
+<div class="modal fade" id="attractionModal" tabindex="-1" aria-labelledby="attractionModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="attractionModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true" class="fas fa-times"></span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <img src="" class="w-100"/>
+        <p class="description mt-4"></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <div class="container-fluid p-0 max-w-80" id="nav-attractions">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-attraction-section--destinations.html.twig
+   * field--taxonomy-term--field-attraction-section.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-attraction-section.html.twig
+   * field--entity-reference-revisions.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--existing-block--default.html.twig
+   * paragraph--existing-block.html.twig
+   * paragraph--default.html.twig
+   x paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/paragraph/paragraph.html.twig' -->
+  <div class="paragraph paragraph--type--existing-block paragraph--view-mode--default">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-existing-block--existing-block.html.twig
+   * field--paragraph--field-existing-block.html.twig
+   * field--paragraph--existing-block.html.twig
+   * field--field-existing-block.html.twig
+   * field--block-field.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--views-block--attractions-block-1.html.twig
+   * block--views-block.html.twig
+   * block--views.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/block/block.html.twig' -->
+<div>
+  
+      <h2 class="title">Attractions</h2>
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/container.html.twig' -->
+<div class="views-element-container">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view.html.twig' -->
+<div class="owl-carousel owl-theme what-to-do-carousel owl-nav-in-10 owl-nav-hover-white js-view-dom-id-93639ba4fad17fb3b2b721df112b381c67c7dbcd77a8a8d81cb54a92c9fa5f20">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-unformatted.html.twig' -->
+    <div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+<div class="views-field views-field-title"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+<figure class="figure attractionModal cursor-pointer" data-toggle="modal" data-target="#attractionModal" data-description="A quaint Himalayan village, Kharsali is about 8 km from Yamunotri. Quiet and rustic, Kharsali offers a fine example of rural Uttarakhand with warm and smiling people and wooden and stone houses. Walk around and explore the village at your pace. ">
+     
+
+
+
+
+  
+
+
+
+
+<img src="/sites/default/files/2020-09/Kharsali.jpg" alt="Kharsali" typeof="Image" />
+
+
+
+
+
+
+
+
+     <figcaption class="fig-caption text-white d-block text-center">
+          <h4 class="text-white m-0 mb-3 text-center line-1">Kharsali</h4>
+          <span class="read-more">Read More</span>
+          
+     </figcaption>
+</figure>
+<!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+
+
+  </div>
+    <div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+<div class="views-field views-field-title"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+<figure class="figure attractionModal cursor-pointer" data-toggle="modal" data-target="#attractionModal" data-description="Located around 10 km from Yamunotri, this glacial lake (at an altitude of 4,421 m) is fed by the Champasar Glacier, and is the actual source of the Yamuna river. While pilgrims offer their prayers at the more accessible Yamunotri temple at the foot of the mountain, the trek from the temple to the lake attracts professional mountaineers. It is an arduous trek but the sight of the emerald blue lake surrounded by frozen glaciers, is stunning. The lake is also said to be the source of the rare lotus Brahma Kamal. ">
+     
+
+
+
+
+  
+
+
+
+
+<img src="/sites/default/files/2020-09/Saptarshi%20Kund.jpg" alt="Saptarshi Kund" typeof="Image" />
+
+
+
+
+
+
+
+
+     <figcaption class="fig-caption text-white d-block text-center">
+          <h4 class="text-white m-0 mb-3 text-center line-1">Saptarshi Kund</h4>
+          <span class="read-more">Read More</span>
+          
+     </figcaption>
+</figure>
+<!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+
+
+  </div>
+    <div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+<div class="views-field views-field-title"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+<figure class="figure attractionModal cursor-pointer" data-toggle="modal" data-target="#attractionModal" data-description="Located at the confluence of  Hanuman Ganga and Yamuna rivers, the serene hamlet of Hanuman Chatti is located around 13 km en route Yamunotri Dham. Nestled in the Himalayas and surrounded by dense forests, Hanuman Chatti (at an altitude at 2,400 m) makes for a refreshing stop. While devotees halt here to take the blessings of Lord Hanumana, for trekkers, this is a popular stop on way to Dodi Tal and other destinations. ">
+     
+
+
+
+
+  
+
+
+
+
+<img src="/sites/default/files/2020-09/Hanuman%20chatti.jpg" alt="Hanuman chatti" typeof="Image" />
+
+
+
+
+
+
+
+
+     <figcaption class="fig-caption text-white d-block text-center">
+          <h4 class="text-white m-0 mb-3 text-center line-1">Hanuman Chatti</h4>
+          <span class="read-more">Read More</span>
+          
+     </figcaption>
+</figure>
+<!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+
+
+  </div>
+    <div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+<div class="views-field views-field-title"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+<figure class="figure attractionModal cursor-pointer" data-toggle="modal" data-target="#attractionModal" data-description="A hamlet that comes to life during the Char Dham Yatra season (May to October), Janki Chatti is popular for its natural splendour. It is around 6 km from Yamunotri Dham and is surrounded by high mountains on all sides. Earlier, the starting point of the trek to reach Yamunotri was Hanuman Chatti (around 13 km away), but now a motorable road can take you up to Janki Chatti. GMVN Tourist Rest Housex">
+     
+
+
+
+
+  
+
+
+
+
+<img src="/sites/default/files/2020-09/Janki%20Chatti.jpg" alt="Janki Chatti" typeof="Image" />
+
+
+
+
+
+
+
+
+     <figcaption class="fig-caption text-white d-block text-center">
+          <h4 class="text-white m-0 mb-3 text-center line-1">Janki Chatti</h4>
+          <span class="read-more">Read More</span>
+          
+     </figcaption>
+</figure>
+<!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+
+
+  </div>
+    <div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+<div class="views-field views-field-title"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+<figure class="figure attractionModal cursor-pointer" data-toggle="modal" data-target="#attractionModal" data-description="The Yamunotri temple is dedicated to Goddess Yamuna, who is said to be the daughter of Lord Surya (sun) and the sister of Yama (the god of death). An intricately carved idol of Goddess Yamuna in polished black ebony stands inside the temple. Sitting next to the gurgling Yamuna river, the bright yellow and vermillion coloured temple is visible from a distance, dramatically set against the steep mountain face. Two natural hot springs, Surya Kund and Gouri Kund, flank the temple. Devotees dip rice and vegetables in the springs, as a divine offering. Devotees also pray at Divya Shilla, a reddish brown rock near Surya Kund. The temple is said to have been built in 1839 AD and rebuilt in the 19th century. ">
+     
+
+
+
+
+  
+
+
+
+
+<img src="/sites/default/files/2020-09/Yamunotri%20Temple.jpg" alt="Yamunotri Temple" typeof="Image" />
+
+
+
+
+
+
+
+
+     <figcaption class="fig-caption text-white d-block text-center">
+          <h4 class="text-white m-0 mb-3 text-center line-1">Yamunotri Temple</h4>
+          <span class="read-more">Read More</span>
+          
+     </figcaption>
+</figure>
+<!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-fields.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view-unformatted.html.twig' -->
+
+
+    
+
+  
+  
+
+  
+  
+</div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/views/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/form/container.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/block/block.html.twig' -->
+
+
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+      </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/paragraph/paragraph.html.twig' -->
+
+
+          </div>
+  
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+      </div>
+
+    <div class="container-fluid parallax p-0 pb-5 pt-1 mt-5" id="nav-what-to-do" style="min-height:auto; background-image: url(/sites/default/files/2020-07/Feel%20the%20thrill%20banner.jpg) !important">
+        <h2 class="title text-white">What To Do</h2>
+
+        <div class="container-fluid max-w-80">
+                        <div class="row justify-content-center">
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-destination-what-to-do--destinations.html.twig
+   * field--taxonomy-term--field-destination-what-to-do.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-destination-what-to-do.html.twig
+   * field--entity-reference-revisions.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   x paragraph--what-to-do--default.html.twig
+   * paragraph--what-to-do.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/paragraph/paragraph--what-to-do--default.html.twig' -->
+            
+                          <div class="col-lg-4 col-sm-6 col-12 p-3">      
+        <div class="text-decoration-none  flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front figure">
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-feature-image--what-to-do.html.twig
+   * field--paragraph--field-feature-image.html.twig
+   * field--paragraph--what-to-do.html.twig
+   * field--field-feature-image.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+<img src="/sites/default/files/2020-05/trekking.jpg" alt="trekking imag" typeof="foaf:Image" />
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+
+
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+              <figcaption class="fig-caption text-white">
+                <h3 class="bottom-caption text-white m-0 text-center">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-title--what-to-do.html.twig
+   * field--paragraph--field-title.html.twig
+   * field--paragraph--what-to-do.html.twig
+   * field--field-title.html.twig
+   * field--string.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            Trekking
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+</h3>
+              </figcaption>
+            </div>
+            <div class="flip-card-back figure">
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-feature-image--what-to-do.html.twig
+   * field--paragraph--field-feature-image.html.twig
+   * field--paragraph--what-to-do.html.twig
+   * field--field-feature-image.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+<img src="/sites/default/files/2020-05/trekking.jpg" alt="trekking imag" typeof="foaf:Image" />
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+
+
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+              <figcaption class="fig-caption h-100 no-bg text-white text-shadow-on-blur h6 font-weight-light m-0">
+                <p class="p-2">
+
+
+
+
+
+
+            There are several trekking routes in and around Yamunotri. The most popular is the route from Hanuman Chatti to Yamunotri, a 14-km moderate trek that takes about 5 hours to complete. The Dodi Tal trek is equally frequented.
+      
+
+
+
+</p>
+              </figcaption>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+<!-- END OUTPUT from 'themes/utdb_frontend/template/paragraph/paragraph--what-to-do--default.html.twig' -->
+
+
+          </div>
+  
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+            </div>
+                    </div>
+    </div>
+    <div id="video-chandi"></div>
+
+                                                            
+
+
+  <div class="container-fluid max-w-80">
+    <div class="row justify-content-center">
+            <div class="col-lg-6 p-3 overflow-hidden">
+        <div class="table-responsive-lg text-center">
+          <h2 class="title" id="nav-weather">Weather</h2>
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-destination-weather--destinations.html.twig
+   * field--taxonomy-term--field-destination-weather.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-destination-weather.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            <div id="weather-widget" style="text-align:center;"><iframe allowtransparency="true" frameborder="0" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" scrolling="NO" src="https://www.meteoblue.com/en/weather/widget/three/yamnotri_india_1252799?geoloc=fixed&amp;nocurrent=0&amp;noforecast=0&amp;days=4&amp;tempunit=CELSIUS&amp;windunit=MILE_PER_HOUR&amp;layout=image" style="width: 460px; height: 700px"></iframe><br />
+ </div>
+
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+        </div>
+      </div>
+                  <div class="col-lg-6 p-3">
+        <h2 class="title">Get Direction</h2>
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-location--destinations.html.twig
+   * field--taxonomy-term--field-location.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-location.html.twig
+   * field--string.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'simple_gmap_output' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/simple_gmap/templates/simple-gmap-output.html.twig' -->
+  <iframe width="100%" height="700px" title="noneasdfghjkl" frameborder="0" style="border:0" src="https://maps.google.com/maps?hl=en&amp;q=Yamunotri&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+
+<!-- END OUTPUT from 'modules/contrib/simple_gmap/templates/simple-gmap-output.html.twig' -->
+
+
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+      </div>
+          </div>
+  </div>
+
+  <div class="container-fluid max-w-80">
+    <h2 class="title" id="nav-how-to-reach">How to reach</h2>
+    <div class="row">
+      <div class="col-lg-4 col-12 p-3">
+        <div class="card">
+          <img src=/themes/utdb_frontend/images/Flight_Image.jpg class="img-fluid card-img-top"/>
+          <div class="card-body">
+            <h4 class="title">By Flight</h4>
+            <div class="overflow-auto custom-scroll" style="height: 200px;">
+            <p>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-flight-route--destinations.html.twig
+   * field--taxonomy-term--field-flight-route.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-flight-route.html.twig
+   * field--text-long.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            <p><span><span><span><span><span><span>Jolly Grant Airport is the nearest airport to Gangotri. You need to hire a cab or get a bus from there</span></span></span></span></span></span></p>
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+</p>
+            </div>
+            <a href="https://www.google.com/flights?hl=en#flt=/m/0dlv0..2019-01-13*./m/0dlv0.2019-01-17;c:INR;e:1;ls:1w;sd:0;t:h">View Air Schedule</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-12 p-3">
+        <div class="card">
+          <img src=/themes/utdb_frontend/images/Train_Image.jpg class="img-fluid card-img-top"/>
+          <div class="card-body">
+            <h4 class="title">By Train</h4>
+            <div class="overflow-auto custom-scroll" style="height: 200px;">
+            <p>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-train-route--destinations.html.twig
+   * field--taxonomy-term--field-train-route.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-train-route.html.twig
+   * field--text-long.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            <p><span><span><span><span><span><span>Regular trains to Haridwar and Dehradun are available at all times across the year. Hire a cab or get a bus from here</span></span></span></span></span></span></p>
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+</p>
+            </div>
+            <a href="https://www.irctc.co.in/nget/train-search">View Train Schedule</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-12 p-3">
+        <div class="card">
+          <img src=/themes/utdb_frontend/images/Bus_Image.jpg class="img-fluid card-img-top"/>
+          <div class="card-body">
+            <h4 class="title">By Road</h4>
+            <div class="overflow-auto custom-scroll" style="height: 200px;">
+            <p>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-bus-route--destinations.html.twig
+   * field--taxonomy-term--field-bus-route.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-bus-route.html.twig
+   * field--text-long.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            <p><span><span><span><span><span><span>Motorable roads end at Janki Chatti. You need to trek about 5-6 km to reach Yamunotri. One can take ponies or palanquins to save oneself the hardships of the journey. </span></span></span></span></span></span></p>
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+</p>
+            </div>
+            <a target="_blank" href="http://www.utconline.uk.gov.in/">View Road Schedule</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container-fluid p-0 overflow-hidden">
+    <h2 class="title">Nearby Destinations</h2>
+          <div class="row justify-content-center">
+                    <div class="col-lg-3 col-sm-6 col-12 mt-3">
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'taxonomy_term' -->
+<!-- FILE NAME SUGGESTIONS:
+   x taxonomy-term--destinations--teaser.html.twig
+   * taxonomy-term--49.html.twig
+   * taxonomy-term--destinations.html.twig
+   * taxonomy-term.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/page/taxonomy-term--destinations--teaser.html.twig' -->
+
+
+
+
+          
+                <a href="/destination/barkot" class="text-decoration-none figure scale-me overflow-hidden">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-destination-homepage-image--destinations.html.twig
+   * field--taxonomy-term--field-destination-homepage-image.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-destination-homepage-image.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+<img src="/sites/default/files/2020-05/barkot1-1-300x200.jpg" alt="UTDB_Barkot" typeof="foaf:Image" />
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+
+
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+          <h3 class="bottom-caption text-white m-0 text-center text-uppercase">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--name--destinations.html.twig
+   * field--taxonomy-term--name.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--name.html.twig
+   * field--string.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            Barkot
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+</h3>
+          <div class="credit mt-2 text-right w-100 text-white small"></div>
+        </a>
+      
+    
+<!-- END OUTPUT from 'themes/utdb_frontend/template/page/taxonomy-term--destinations--teaser.html.twig' -->
+
+
+            </div>
+                    <div class="col-lg-3 col-sm-6 col-12 mt-3">
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'taxonomy_term' -->
+<!-- FILE NAME SUGGESTIONS:
+   x taxonomy-term--destinations--teaser.html.twig
+   * taxonomy-term--81.html.twig
+   * taxonomy-term--destinations.html.twig
+   * taxonomy-term.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/page/taxonomy-term--destinations--teaser.html.twig' -->
+
+
+
+
+          
+                <a href="/destination/harsil" class="text-decoration-none figure scale-me overflow-hidden">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-destination-homepage-image--destinations.html.twig
+   * field--taxonomy-term--field-destination-homepage-image.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-destination-homepage-image.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+<img src="/sites/default/files/2020-10/Harsil.jpg" alt="Harsil" typeof="foaf:Image" />
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+
+
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+          <h3 class="bottom-caption text-white m-0 text-center text-uppercase">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--name--destinations.html.twig
+   * field--taxonomy-term--name.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--name.html.twig
+   * field--string.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            Harsil
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+</h3>
+          <div class="credit mt-2 text-right w-100 text-white small"></div>
+        </a>
+      
+    
+<!-- END OUTPUT from 'themes/utdb_frontend/template/page/taxonomy-term--destinations--teaser.html.twig' -->
+
+
+            </div>
+                    <div class="col-lg-3 col-sm-6 col-12 mt-3">
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'taxonomy_term' -->
+<!-- FILE NAME SUGGESTIONS:
+   x taxonomy-term--destinations--teaser.html.twig
+   * taxonomy-term--62.html.twig
+   * taxonomy-term--destinations.html.twig
+   * taxonomy-term.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/page/taxonomy-term--destinations--teaser.html.twig' -->
+
+
+
+
+          
+                <a href="/destination/gangotri" class="text-decoration-none figure scale-me overflow-hidden">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--field-destination-homepage-image--destinations.html.twig
+   * field--taxonomy-term--field-destination-homepage-image.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--field-destination-homepage-image.html.twig
+   * field--entity-reference.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+<img src="/sites/default/files/2022-03/Gangotri.jpeg" alt="Gangotri" typeof="foaf:Image" />
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/themes/stable/templates/field/image-formatter.html.twig' -->
+
+
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+
+          <h3 class="bottom-caption text-white m-0 text-center text-uppercase">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--taxonomy-term--name--destinations.html.twig
+   * field--taxonomy-term--name.html.twig
+   * field--taxonomy-term--destinations.html.twig
+   * field--name.html.twig
+   * field--string.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+            Gangotri
+      
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/field/field.html.twig' -->
+
+</h3>
+          <div class="credit mt-2 text-right w-100 text-white small"></div>
+        </a>
+      
+    
+<!-- END OUTPUT from 'themes/utdb_frontend/template/page/taxonomy-term--destinations--teaser.html.twig' -->
+
+
+            </div>
+              </div>
+      </div>
+<script>
+document.body.style.backgroundColor = "#ddd";
+function corbetdetails(){
+   alert('This link shall take you to a page outside the UTDB website. For any query regarding the contents of the linked page, please contact the webmaster of the concerned website');
+   window.open('https://www.corbettonline.uk.gov.in');
+   //window.location.href = "https://www.corbettonline.uk.gov.in";
+
+}
+var urlv=window.location.href;
+if(urlv=="https://uttarakhandtourism.gov.in/destination/chandighat"){
+	$('.title.text-white').text("GHATS");
+ // $( ".container-fluid.parallax" ).append( "<p>Test</p>" );
+ //$( ".container-fluid.parallax" ).after("hi");
+ //$( ".container-fluid.parallax" ).after(function() {
+ // return "<div>" <video width="320" height="240" controls>
+ // <source src="./sites/default/files/2021-11/Kartik-ji-banner.mp4" type="video/mp4">
+//</video> "</div>";
+//var video = $('<video />', {
+//    id: 'video',
+ //  src: 'http://video-js.zencoder.com/oceans-clip.mp4',
+ //  type: 'video/mp4',
+ //  controls: true
+//});
+//video.appendTo($('.container-fluid.parallax'));
+
+$('#nav-what-to-do').css('background-image','url("https://uttarakhandtourism.gov.in/themes/utdb_frontend/images/social-media-background-image.jpg")');
+
+var video = $('<video />', {
+    id: 'video',
+   src: 'https://uttarakhandtourism.gov.in/sites/default/files/2021-11/Chandighat-video-r.mp4',
+   type: 'video/mp4',
+   controls: true
+});
+video.appendTo($('#video-chandi'));
+
+}
+
+
+</script>
+
+<style>
+
+div#video-chandi {
+    text-align: center;
+}
+
+div#video-chandi video#video {
+    margin: 0 auto;
+    width: 65%;
+    max-height: 399px
+    margin: 0 auto !IMPORTANT;
+    margin-top: 62px !important;
+}
+</style>
+<!-- END OUTPUT from 'themes/utdb_frontend/template/page/taxonomy-term--destinations.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/block/block.html.twig' -->
+
+
+  
+<!-- END OUTPUT from 'themes/utdb_frontend/template/region/region.html.twig' -->
+
+
+
+
+
+
+
+
+<div class="footer mt-5">
+	
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/region/region.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   x block--footer.html.twig
+   * block--system-menu-block--footer.html.twig
+   * block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/block/block--footer.html.twig' -->
+<style>
+img.w-100.img-fluid {
+    max-width: 150px;
+    height: 60px;
+}
+.modal-footer a {
+    background: #007bff;
+    color: #fff;
+    padding: 7px 7px;
+    border-radius: 5px;
+}
+
+.col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .btn-primary {
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+}
+.col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .btn-primary:hover {
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+}
+.col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .btn-primary:not(:disabled):not(.disabled).active:focus, .col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .btn-primary:not(:disabled):not(.disabled):active:focus, .col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .show > .btn-primary.dropdown-toggle:focus {
+    box-shadow: none;
+}
+.col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .btn-primary:not(:disabled):not(.disabled).active, .col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .btn-primary:not(:disabled):not(.disabled):active, .col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+}
+.col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .btn-primary.focus, .col-12.d-flex.justify-content-center.align-items-end.py-4.border-top.border-bottom.border-secondary.bg-light .btn-primary:focus {
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+    box-shadow: none;
+}
+</style>
+<div class="row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footer' -->
+<!-- FILE NAME SUGGESTIONS:
+   x menu--footer.html.twig
+   x menu--footer.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/menu/menu--footer.html.twig' -->
+
+
+                            <div class="col-lg-4 d-flex flex-column justify-content-between  p-0 m-0">
+                <div class="card border-0 bg-transparent"> 
+                    <div class="card-body">
+                        <h5 class="card-title text-white">About UTDB</h5>
+                                                    <ul class="list-unstyled">
+                                                            <li><a href="/about-utdb">About Us</a></li>
+                                                            <li><a href="/awards-honours">Awards &amp; Honours</a></li>
+                                                            <li><a href="/ceos-message">CEO’s Message</a></li>
+                                                            <li><a href="/contact-us">Contact Us</a></li>
+                                                            <li><a href="https://uttarakhandtourism.gov.in/sites/default/files/2022-05/Tourist-Map-Uttarakhand%20%281%29.pdf">Uttarakhand Tourist Map</a></li>
+                                                            <li><a href="/sitemap">Sitemap</a></li>
+                                                        </ul>
+                                            </div>
+                </div>
+            </div>
+                                <div class="col-lg-4 d-flex flex-column justify-content-between  p-0 m-0">
+                <div class="card border-0 bg-transparent"> 
+                    <div class="card-body">
+                        <h5 class="card-title text-white">Departmental Info</h5>
+                                                    <ul class="list-unstyled">
+                                                            <li><a href="/sites/default/files/2020-07/20__Right_to_Service_2011_Establishment_.pdf">Citizen Charter</a></li>
+                                                            <li><a href="https://uttarakhandtourism.gov.in/sites/default/files/2022-05/List%20of%20Annual%20Transfer%202022-23.pdf">Annual Transfer</a></li>
+                                                            <li><a href="/important-links">Important Links</a></li>
+                                                            <li><a href="/policy-and-guidelines">Policy and Guidelines</a></li>
+                                                            <li><a href="/document/type/rti">RTI</a></li>
+                                                            <li><a href="https://uttarakhandtourism.gov.in/sites/default/files/2021-04/Right-to-Service-3.pdf">Right to Service</a></li>
+                                                            <li><a href="/document/type/tenderseoi">Tenders/EOI</a></li>
+                                                            <li><a href="/document/type/vacancies">Vacancies</a></li>
+                                                        </ul>
+                                            </div>
+                </div>
+            </div>
+                                <div class="col-lg-4 d-flex flex-column justify-content-between  p-0 m-0">
+                <div class="card border-0 bg-transparent">
+                    <div class="card-body">
+                        <h5 class="card-title text-white">Trade</h5>
+                                                    <ul class="list-unstyled">
+                                                            <li><a href="https://investuttarakhand.uk.gov.in/">Invest In Uttarakhand Tourism</a></li>
+                                                            <li><a href="https://msy.uk.gov.in/">Apply for Veer Chandra Singh Garhwali &amp; Pt. Deen Dayal Homestay Scheme</a></li>
+                                                            <li><a href="/document/type/market-research-and-statistics">Market Research and Statistics</a></li>
+                                                            <li><a href="https://uttarakhandtourism.gov.in/sites/default/files/2022-05/SCAN0006.PDF">CBSP Training Prog. - Empanelment of Institute</a></li>
+                                                            <li><a href="https://uttarakhandtourism.gov.in/sites/default/files/2022-06/HSRT.pdf">Upload Advertisement of Hunar Se Rozgar Tak (HSRT)</a></li>
+                                                            <li><a href="https://uttarakhandtourism.gov.in/sites/default/files/2022-09/guide-application-form.pdf">Tourist Guide Training Form</a></li>
+                                                            <li><a href="http://uttarakhandtourism.gov.in/sites/default/files/2022-09/trek%20of%20the%20year%202022%20revised.pdf">Treks of the year</a></li>
+                                                            <li><a href="https://uttarakhandtourism.gov.in/utdb-event">Photography &amp; Videography Contest and Influencer Registration</a></li>
+                                                        </ul>
+                                            </div>
+                </div>
+            </div>
+              
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/menu/menu--footer.html.twig' -->
+
+
+</div>
+
+<div class="col-12 d-flex justify-content-center align-items-end py-4 border-top border-bottom border-secondary bg-light">
+<button class="btn btn-primary" data-target="#exampleModal04" data-toggle="modal" id="btn04" type="button" style="max-width: 150px;"> <img src=/themes/utdb_frontend/images/GMVN-Logo.png class="w-100 img-fluid" style="max-width: 150px;"></button>
+<div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade" id="exampleModal04" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Alert!</h5>
+<button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button></div>
+
+<div class="modal-body">This link shall take you to a page outside the UTDB website. For any query regarding the contents of the linked page, please contact the webmaster of the concerned website.</div>
+
+<div class="modal-footer"><button class="btn btn-secondary ones" data-dismiss="modal" type="button">Cancel</button>
+<a class="confirm" href="https://gmvnonline.com/" onclick="jQuery('#exampleModal04').hide(); jQuery('.modal-backdrop').hide();jQuery('#btn04').click();" target="_blank">Confirm</a></div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<button class="btn btn-primary" data-target="#exampleModal06" data-toggle="modal" id="btn06" type="button" style="max-width: 150px;"> <img src=/themes/utdb_frontend/images/KMVN-Logo.png class="w-100 img-fluid" style="max-width: 150px;"></button>
+<div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade" id="exampleModal06" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Alert!</h5>
+<button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button></div>
+
+<div class="modal-body">This link shall take you to a page outside the UTDB website. For any query regarding the contents of the linked page, please contact the webmaster of the concerned website.</div>
+
+<div class="modal-footer"><button class="btn btn-secondary" data-dismiss="modal" type="button">Cancel</button>
+<a class="confirm" href="http://www.kmvn.in/" onclick="jQuery('#exampleModal06').hide(); jQuery('.modal-backdrop').hide();jQuery('#btn06').click();" target="_blank">Confirm</a></div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<button class="btn btn-primary" data-target="#exampleModal07" data-toggle="modal" id="btn07" type="button" style="max-width: 150px;"> <img src=/themes/utdb_frontend/images/Ministry_of_Tourism_India.png class="w-100 img-fluid" style="max-width: 150px;"></button>
+<div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade" id="exampleModal07" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Alert!</h5>
+<button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button></div>
+
+<div class="modal-body">This link shall take you to a page outside the UTDB website. For any query regarding the contents of the linked page, please contact the webmaster of the concerned website.</div>
+
+<div class="modal-footer"><button class="btn btn-secondary" data-dismiss="modal" type="button">Cancel</button>
+<a class="confirm" href="https://tourism.gov.in/" onclick="jQuery('#exampleModal07').hide(); jQuery('.modal-backdrop').hide();jQuery('#btn07').click();" target="_blank">Confirm</a></div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+<div class="col-12 d-flex justify-content-center py-2 bg-light">
+    <a href="https://www.facebook.com/UttarakhandTourismOfficialPage/" class="icon text-decoration-none" target="_blank"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://twitter.com/UTDBofficial" class="icon text-decoration-none" target="_blank"><i class="fab fa-twitter"></i></a>
+    <a href="https://www.youtube.com/channel/UCX7c5KGrPjG8tzna7xhro4g" class="icon text-decoration-none" target="_blank"><i class="fab fa-youtube"></i></a>
+    <a href="https://www.instagram.com/uttarakhand_tourismofficial/" class="icon text-decoration-none" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.linkedin.com/company/uttarakhand-tourism-development-board" class="icon text-decoration-none" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+    <a href="https://in.pinterest.com/utdbtourism/" class="icon text-decoration-none" target="_blank"><i class="fab fa-pinterest-p"></i></a>
+</div>
+
+
+<div class="col-12 d-flex justify-content-center text-white p-2 text-center">
+    Nodal Officer<br/>
+Mr. V.S. Chauhan (Additional Director)<br/>
+For suggestions & feedback related to the website, please write to infoutdb-uk@nic.in<br/>
+For any general queries or details, please mail us at publicityutdb@gmail.com, info.utdb@gmail.com or call 91- 135- 2559898, 2559987
+</div>
+<div class="row justify-content-between p-0">
+    <div class="col-lg-auto col-12 py-1">
+        <p class="text-white m-0">Copyright © 2022 <span>Uttarakhand Tourism Development Board.</span> - All rights reserved.</p>
+    </div>
+    <div class="col-lg-auto col-12 py-1" style="margin: 0 -0.25rem;">
+        <a href=/sitemap class="text-white px-1">Sitemap</a>
+              <a href=/website-policy class="text-white px-1">Policy</a>
+        <a href=/accessibility-statement class="text-white px-1">Accessibility Statement</a>
+             </div>
+</div>
+<div class="col-12 max-w-85 mx-auto " style="">
+    <p class="text-white m-0 text-right"><span class="text-grey font-italic pr-3" style="font-size: 0.85rem">Developed by: Maxposure Media Group</span></p>
+</div>
+
+
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/block/block--footer.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--visitors.html.twig
+   * block--visitors-block.html.twig
+   * block--visitors.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/block/block.html.twig' -->
+<div id="block-visitors" class="visit-count">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'item_list' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/dataset/item-list.html.twig' -->
+<ul><li>Total Visitors: <em class="placeholder">4815158</em></li><li>Your IP: <em class="placeholder">10.67.58.6</em></li></ul>
+<!-- END OUTPUT from 'core/themes/stable/templates/dataset/item-list.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/block/block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   x block--userlogin.html.twig
+   * block--user-login-block.html.twig
+   * block--user.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/block/block--userlogin.html.twig' -->
+
+<div class="modal fade" id="userLoginModal" tabindex="-1" aria-labelledby="userLoginModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div id="block-userlogin" role="form">
+            
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true" class="fas fa-times"></span>
+            </button>
+                            <h2 class="h3-title text-uppercase text-center font-weight-bold">User login</h2>
+                
+                        
+                            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form' -->
+<!-- FILE NAME SUGGESTIONS:
+   * form--user-login-form.html.twig
+   x form.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/form/form.html.twig' -->
+<form class="user-login-form" data-drupal-selector="user-login-form" action="/destination/yamunotri?destination=/destination/yamunotri" method="post" id="user-login-form" accept-charset="UTF-8">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   x form-element--name.html.twig
+   * form-element.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/form/form-element--name.html.twig' -->
+<div class="js-form-item form-item form-group js-form-type-textfield form-item-name js-form-item-name">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
+<label for="edit-name" class="js-form-required form-required">Username</label>
+<!-- END OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
+
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__textfield' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--textfield.html.twig
+   x input--name.html.twig
+   * input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/form/input--name.html.twig' -->
+<input autocorrect="none" autocapitalize="none" spellcheck="false" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required form-control" required="required" aria-required="true" />
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/form/input--name.html.twig' -->
+
+
+        </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/form/form-element--name.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   x form-element--pass.html.twig
+   * form-element.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/form/form-element--pass.html.twig' -->
+<div class="js-form-item form-item form-group js-form-type-password form-item-pass js-form-item-pass">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
+<label for="edit-pass" class="js-form-required form-required">Password</label>
+<!-- END OUTPUT from 'core/themes/stable/templates/form/form-element-label.html.twig' -->
+
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__password' -->
+<!-- FILE NAME SUGGESTIONS:
+   x input--password.html.twig
+   * input--pass.html.twig
+   x input--password.html.twig
+   * input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/form/input--password.html.twig' -->
+<input data-drupal-selector="edit-pass" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required form-control" required="required" aria-required="true" />
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/form/input--password.html.twig' -->
+
+
+        </div>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/form/form-element--pass.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   * input--form-build-id.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/form/input.html.twig' -->
+<style>
+::placeholder {
+    color: #495057 !important;
+    padding: 10px;
+    text-transform: capitalize;
+}
+</style>
+<input autocomplete="off" data-drupal-selector="form-qdrnffzucnzyhgocftjdsynmajwmed4evhg7l6i7qv0" type="hidden" name="form_build_id" value="form-QDrnFfZucNZyhgoCfTjDSYnMAJWmed4eVhg7L6I7qV0" />
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/form/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   * input--form-id.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/form/input.html.twig' -->
+<style>
+::placeholder {
+    color: #495057 !important;
+    padding: 10px;
+    text-transform: capitalize;
+}
+</style>
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/form/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/form/container.html.twig' -->
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__submit' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--submit.html.twig
+   * input--op.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/utdb_frontend/template/form/input.html.twig' -->
+<style>
+::placeholder {
+    color: #495057 !important;
+    padding: 10px;
+    text-transform: capitalize;
+}
+</style>
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Log in" class="button js-form-submit form-submit" />
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/form/input.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/form/container.html.twig' -->
+
+
+</form>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/form/form.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'item_list' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/dataset/item-list.html.twig' -->
+<ul><li><a href="/user/register" title="Create a new user account." class="create-account-link">Create new account</a></li><li><a href="/user/password" title="Send password reset instructions via email." class="request-password-link">Reset your password</a></li></ul>
+<!-- END OUTPUT from 'core/themes/stable/templates/dataset/item-list.html.twig' -->
+
+
+                    </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/block/block--userlogin.html.twig' -->
+
+
+  
+<!-- END OUTPUT from 'themes/utdb_frontend/template/region/region.html.twig' -->
+
+
+</div>
+<!-- END OUTPUT from 'themes/utdb_frontend/template/page/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/content/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"taxonomy\/term\/92","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ga":{"commands":[["create","UA-126133365-1","auto",{"anonymizeIp":true}],["send","pageview"]]},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"dbbc35b06deb35b9f11c9ab2e19ccecdbcff05d67889a5dd1df94c43323806bc"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.4.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.8.4"></script>
+<script src="/core/misc/drupal.js?v=8.8.4"></script>
+<script src="/core/misc/drupal.init.js?v=8.8.4"></script>
+<script src="/modules/custom/ga/js/analytics.js?v=1.2"></script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+<script src="/themes/utdb_frontend/js/bootstrap.min.js?v=1.x"></script>
+<script src="/themes/utdb_frontend/js/popper.min.js?v=1.x"></script>
+<script src="/themes/utdb_frontend/js/owl.carousel.min.js?v=1.x"></script>
+<script src="/themes/utdb_frontend/js/wow.min.js?v=1.x"></script>
+<script src="/themes/utdb_frontend/js/custom.js?v=1.x"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=8.8.4"></script>
+
+    <script type="text/javascript">function add_chatinline(){var hccid=35629149;var nt=document.createElement("script");nt.async=true;nt.src="https://www.mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getElementsByTagName("script")[0];ct.parentNode.insertBefore(nt,ct);}
+add_chatinline();</script>
+<script>
+var data=jQuery('ul.list-unstyled li');
+jQuery.each(data, function(index, value) {
+  var isLastElement = index == data.length -1;
+  if (isLastElement) {
+   // console.log('last item');
+   // jQuery(this).addClass( "blink" );
+    //jQuery(this).find('a').addClass('bg-light text-danger');
+    jQuery(this).find('a').append('<sup><img width="35" height="35" alt="New" src="https://uttarakhandtourism.gov.in/themes/utdb_frontend/images/blnk.gif"></sup>');
+  }
+
+ // console.log(value);
+});
+
+
+//var blnk = jQuery('.list-unstyled').find('a').attr('href');
+////if(jQuery('.list-unstyled').has( "a" ).attr('href').search("msy.uk")>5){
+  var trgt = jQuery('.list-unstyled').children('a').eq(2);
+  //console.log(trgt);
+//}
+  
+/* if(blnk.search("msy.uk")>5)
+{
+  for(i=0;i<3;i++) {
+    $(this).fadeTo('slow', 0.5).fadeTo('slow', 1.0);
+  }
+} */
+</script>
+  </body>
+</html>
+
+<!-- END OUTPUT from 'themes/utdb_frontend/template/html/html.html.twig' -->
+
